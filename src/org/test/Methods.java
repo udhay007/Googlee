@@ -2,12 +2,18 @@ package org.test;
 
 public class Methods {
 	
+	public void openbrowser() {
+	    System.out.println("open browser");
+	  
+	}
 	
-	public void google() {
-		System.out.println("google");
 
-	}
+	
 
-	}
 
+
+ 
+  
+  
+}
 
